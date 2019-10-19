@@ -1,4 +1,0 @@
-https://mybinder.org/v2/gh/ModelHello/deep-learning-v2-pytorch/master
-
-binder：
-https://hub.gke.mybinder.org/user/modelhello-deep-ning-v2-pytorch-o5awbqgx/tree
